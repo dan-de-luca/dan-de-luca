@@ -51,7 +51,7 @@
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey&logoColor=80B5E3)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
-#### &nbsp;OSs
+#### &nbsp;OS
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)&nbsp;
 ![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E954204)&nbsp;
@@ -77,18 +77,20 @@
 
 <br>
 
-
+<!---
 ### 📈 &nbsp;GitHub Analytics
 
 <p align="center'>
 <a href="https://github.com/dan-de-luca">
    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dan-de-luca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&include_orgs=true"/>
+   --->
   <!---
   <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dan_de_luca"/>
   --->
+<!---
 </a>
 </p>
-
+--->
 <!---
 dan-de-luca/dan-de-luca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
