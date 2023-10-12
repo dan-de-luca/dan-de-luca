@@ -4,17 +4,15 @@
   <img src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/4b48ebac-9ea8-4a23-a515-261a1a2d1ab7" alt="Daniel De Luca - Profile Picture" width="75px" height="75px" style="border-radius: 50%; margin-right: 20px;" /><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=50&lines=Software+Engineering+Student+@+RMIT;BOEING+x+RMIT+Technical+Hackathon+2022+Winning+Team;Experienced+IT+Recruiter;Avid+Learner;Looking+for+internship+opportunities+in+2024" alt="Displays text lines" style="margin-left: 10px">
 </p>
 
-
 <br>
-
 
 ### &nbsp;About Me
 
-- 🌱 I’m a second year Software Engineering student at RMIT, Melbourne
-
+- 🌱 I’m a second-year Software Engineering student at RMIT, Melbourne
+- ⚒️ I have a professional background in IT Recruitment
+- 🧑🏼‍💻 I love learning new things
 
 <br>
-
 
 ### &nbsp;How to reach me:
 
@@ -23,11 +21,9 @@
   <a href="https://www.linkedin.com/in/dan-de-luca/" target="blank"><img align="center" src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/d88dd842-65da-4958-8289-95336bc3453f" alt="Daniel De Luca" height="30" width="40" /></a>
 </p>
 
-
 <br>
 
-
-### ⚙️⚒️ &nbsp;Tech Stack
+### &nbsp;⚒️ Tech Stack
 #### &nbsp;Programming Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -62,18 +58,15 @@
 #### &nbsp;Project & Task Management
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=atlassian&logoColor=0052CC)&nbsp;
 
-
 <br>
 
-
-### 👨🏼‍💻 &nbsp;Currently Learning
+### 👨🏼‍💻 Currently Learning
 
 ![Spring Boot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)&nbsp;
 ![GitHub Actions CI](https://img.shields.io/badge/-githubactions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![AWS](https://img.shields.io/badge/-amazonaws-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
-
 
 <br>
 
