@@ -11,9 +11,9 @@
 
 ### &nbsp;About Me
 
-- 🌱 I’m a second-year Software Engineering student at RMIT, Melbourne
-- ⚒️ I have a professional background in IT Recruitment
-- 🧑🏼‍💻 I love learning new things
+- 🌱 I’m a second-year Bachelor of Software Engineering student at RMIT, Melbourne.
+- ⚒️ I have a professional background in IT Recruitment, across technical & project services roles.
+- 🧑🏼‍💻 I love learning new things!
 
 <br>
 
