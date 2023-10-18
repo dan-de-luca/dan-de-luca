@@ -65,11 +65,11 @@
 
 ### 👨🏼‍💻 Currently Learning
 
-![Spring Boot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)&nbsp;
-![GitHub Actions CI](https://img.shields.io/badge/-githubactions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![AWS](https://img.shields.io/badge/-amazonaws-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+![GitHub Actions CI](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
 
 <br>
 
