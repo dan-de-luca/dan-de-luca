@@ -4,16 +4,17 @@
   <!---
   <img src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/4b48ebac-9ea8-4a23-a515-261a1a2d1ab7" alt="Daniel De Luca - Profile Picture" width="75px" height="75px" style="border-radius: 50%; margin-right: 20px;" />
   --->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=50&lines=Software+Engineering+Student+@+RMIT;BOEING+x+RMIT+Technical+Hackathon+2022+Winning+Team;Experienced+IT+Recruiter;Avid+Learner;Looking+for+internship+opportunities+in+2024" alt="Displays text lines" style="margin-left: 10px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=50&lines=Associate+Product+Engineer+@+PaperCut+Software;Software+Engineering+Student+@+RMIT;BOEING+x+RMIT+Technical+Hackathon+2022+Winning+Team;Experienced+IT+Recruiter;Avid+Learner" alt="Displays text lines" style="margin-left: 10px">
 </p>
 
 <br>
 
 ### &nbsp;About Me
 
-- 🌱 I’m a second-year Bachelor of Software Engineering student at RMIT, Melbourne.
+- 👨🏼‍💻 I'm an Associate Product Engineer at PaperCut Software, Melbourne.
+- 🌱 I’m a third-year Bachelor of Software Engineering student at RMIT, Melbourne.
 - ⚒️ I have a professional background in IT Recruitment, across technical & project services roles.
-- 🧑🏼‍💻 I love learning new things!
+- 📚 I love learning new things!
 
 <br>
 
