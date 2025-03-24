@@ -12,7 +12,7 @@
 ### &nbsp;About Me
 
 - 👨🏼‍💻 I'm an Associate Product Engineer at PaperCut Software, Melbourne.
-- 🌱 I’m a third-year Bachelor of Software Engineering student at RMIT, Melbourne.
+- 🌱 I’m a fourth/final-year Bachelor of Software Engineering student at RMIT, Melbourne.
 - ⚒️ I have a professional background in IT Recruitment, across technical & project services roles.
 - 📚 I love learning new things!
 
