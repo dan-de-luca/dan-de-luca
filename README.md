@@ -45,9 +45,11 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
 #### &nbsp;Databases
-![Google Cloud Platform Datastore](https://img.shields.io/badge/-GCP-Datastore-05122A?style=flat&logo=datastore&logoColor=4479A1)&nbsp;
-![Google Cloud Platform Firestore](https://img.shields.io/badge/-GCP-Firestore-05122A?style=flat&logo=firestore&logoColor=4479A1)&nbsp;
-![Google Cloud Platform BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery&logoColor=4479A1)&nbsp;
+![Google-Cloud-Platform](https://img.shields.io/badge/-Google-Cloud-Platform-05122A?style=flat&logo=google-cloud-platform&logoColor=4479A1)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=gcp&logoColor=4479A1)&nbsp;
+![Datastore](https://img.shields.io/badge/-Datastore-05122A?style=flat&logo=datastore&logoColor=4479A1)&nbsp;
+![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=firestore&logoColor=4479A1)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery&logoColor=4479A1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 #### &nbsp;Version Control
