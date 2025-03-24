@@ -39,17 +39,16 @@
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 #### &nbsp;Cloud
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=gcp&logoColor=4479A1)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=4479A1)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=4479A1)&nbsp;
 #### &nbsp;Data Analysis
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
 #### &nbsp;Databases
-![Google-Cloud-Platform](https://img.shields.io/badge/-Google-Cloud-Platform-05122A?style=flat&logo=google-cloud-platform&logoColor=4479A1)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=gcp&logoColor=4479A1)&nbsp;
-![Datastore](https://img.shields.io/badge/-Datastore-05122A?style=flat&logo=datastore&logoColor=4479A1)&nbsp;
-![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=firestore&logoColor=4479A1)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery&logoColor=4479A1)&nbsp;
+![Datastore](https://img.shields.io/badge/-Datastore-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
+![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 #### &nbsp;Version Control
@@ -74,8 +73,8 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=4EAA25)&nbsp;
 #### &nbsp;Project & Task Management
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=atlassian&logoColor=0052CC)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=atlassian&logoColor=0052CC)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0052CC)&nbsp;
 
 <br>
 
