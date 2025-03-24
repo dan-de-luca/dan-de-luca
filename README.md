@@ -30,14 +30,26 @@
 ### &nbsp;⚒️ Tech Stack
 #### &nbsp;Programming Languages
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&LogoColor=FFA518)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&LogoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&LogoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&LogoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+#### &nbsp;Cloud
+![Google Cloud Platform](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=gcp&logoColor=4479A1)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=4479A1)&nbsp;
 #### &nbsp;Data Analysis
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
+#### &nbsp;Databases
+![Google Cloud Platform Datastore](https://img.shields.io/badge/-GCP-Datastore-05122A?style=flat&logo=datastore&logoColor=4479A1)&nbsp;
+![Google Cloud Platform Firestore](https://img.shields.io/badge/-GCP-Firestore-05122A?style=flat&logo=firestore&logoColor=4479A1)&nbsp;
+![Google Cloud Platform BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery&logoColor=4479A1)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 #### &nbsp;Version Control
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -45,14 +57,13 @@
 #### &nbsp;IDEs
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)&nbsp;
-#### &nbsp;Databases
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 #### &nbsp;Package Managers
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
+![homebrew](https://img.shields.io/badge/-homebrew-05122A?style=flat&logo=homebrew&logoColor=CB3837)&nbsp;
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey&logoColor=80B5E3)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
 #### &nbsp;OS
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos&logoColor=0078D4)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)&nbsp;
 ![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E954204)&nbsp;
@@ -61,6 +72,7 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=4EAA25)&nbsp;
 #### &nbsp;Project & Task Management
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=atlassian&logoColor=0052CC)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=atlassian&logoColor=0052CC)&nbsp;
 
 <br>
