@@ -38,10 +38,21 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+#### &nbsp;Frontend Frameworks
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&LogoColor=FFA518)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=NextDotJS&logoColor=FFA518)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeDotJS&logoColor=00599C)&nbsp;
 #### &nbsp;Cloud
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=4479A1)&nbsp;
+#### &nbsp;Cloud
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=4479A1)&nbsp;
+#### &nbsp;Containerization
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 #### &nbsp;Data Analysis
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
@@ -56,7 +67,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)&nbsp;
 #### &nbsp;IDEs
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=vscode&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 #### &nbsp;Package Managers
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
