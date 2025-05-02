@@ -46,10 +46,6 @@
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=4479A1)&nbsp;
-#### &nbsp;Cloud
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=4479A1)&nbsp;
 #### &nbsp;Containerization
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
