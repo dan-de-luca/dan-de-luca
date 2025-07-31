@@ -13,7 +13,7 @@
 
 - 👨🏼‍💻 I'm an Associate Product Engineer at PaperCut Software, Melbourne
 - 🌱 I’m a final-year Bachelor of Software Engineering student at RMIT, Melbourne
-- ⚒️ I have a professional background in Software Engineering & IT Recruitment
+- ⚒️ I develop end-to-end features for cloud-based SaaS products
 - 📚 I love learning new things!
 
 <br>
