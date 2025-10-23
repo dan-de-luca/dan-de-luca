@@ -21,7 +21,7 @@
 ### &nbsp;How to reach me:
 
 <p align="left">
-  <a href="https://daniel@deluca.net.au/" target="blank"><img align="center" src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/fd89c3f9-26b6-449d-87d1-4a06275cdff7" alt="Daniel De Luca" height="30" width="40" /></a>
+  <a href="mailto:daniel@deluca.net.au" target="blank"><img align="center" src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/fd89c3f9-26b6-449d-87d1-4a06275cdff7" alt="Daniel De Luca" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dan-de-luca/" target="blank"><img align="center" src="https://github.com/dan-de-luca/dan-de-luca/assets/80723764/d88dd842-65da-4958-8289-95336bc3453f" alt="Daniel De Luca" height="30" width="40" /></a>
 </p>
 
