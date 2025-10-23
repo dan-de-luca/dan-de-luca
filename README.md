@@ -34,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&LogoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&LogoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OpenJDK&logoColor=000000)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=sharp&logoColor=99CC00)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
@@ -42,6 +43,9 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&LogoColor=FFA518)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=NextDotJS&logoColor=FFA518)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeDotJS&logoColor=00599C)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
+#### &nbsp;Frameworks
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&LogoColor=512BD4)&nbsp;
 #### &nbsp;Cloud
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
@@ -49,16 +53,18 @@
 #### &nbsp;Containerization
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=4479A1)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-#### &nbsp;Build
+#### &nbsp;Build / CICD
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab&logoColor=FC6D26)&nbsp;
+![GitHub Actions CI](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
+![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)&nbsp;
 #### &nbsp;Data Analysis
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
 #### &nbsp;Databases
 ![Datastore](https://img.shields.io/badge/-Datastore-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlecloud&logoColor=4479A1)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery&logoColor=669DF6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 #### &nbsp;Version Control
@@ -71,6 +77,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 #### &nbsp;Package Managers
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
 ![homebrew](https://img.shields.io/badge/-homebrew-05122A?style=flat&logo=homebrew&logoColor=CB3837)&nbsp;
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey&logoColor=80B5E3)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
@@ -86,16 +93,19 @@
 #### &nbsp;Project & Task Management
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0052CC)&nbsp;
+#### &nbsp;AI Tools
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini&logoColor=8E75B2)&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=412991)&nbsp;
+#### &nbsp;Other Tools
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
+![Curl](https://img.shields.io/badge/-Curl-05122A?style=flat&logo=curl&logoColor=073551)&nbsp;
 
 <br>
 
 ### 👨🏼‍💻 Currently Learning
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
-![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)&nbsp;
-![GitHub Actions CI](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=1C3C3C)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph&logoColor=1C3C3C)&nbsp;
 
 <br>
 
